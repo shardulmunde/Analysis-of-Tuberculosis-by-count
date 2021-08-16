@@ -1,6 +1,9 @@
 # Analysis-of-Tuberculosis-by-count
 This dataset includes WHO-generated estimates of TB prevalence and mortality and case detection rate for all forms from over countries.
 
+# DataSet Information
+The dataset consists of 47 Columns and 5120 rows which meant 20 predicting variables. All predicting variables was then divided into several broad categories: Immunization related factors, Mortality factors, Economical factors and Social factors.
+
 # Variables
 1.	Country: Country
 2.	ISO 2-character country/territory code:
