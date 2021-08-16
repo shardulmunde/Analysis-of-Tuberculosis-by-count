@@ -1,4 +1,4 @@
-# Analysis-of-Tuberculosis-by-count
+# Analysis-of-Tuberculosis-by-country
 This dataset includes WHO-generated estimates of TB prevalence and mortality and case detection rate for all forms from over countries.
 
 # DataSet Information
